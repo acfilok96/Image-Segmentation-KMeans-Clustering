@@ -1,1 +1,1 @@
-# ImageSegmentation-KMenasClustering
+# ImageSegmentation-KMeansClustering
